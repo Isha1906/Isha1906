@@ -37,9 +37,9 @@ Currently focused on improving my React, TypeScript, and UI development skills t
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isha1906&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Isha1906)
 
 ---
 
@@ -51,7 +51,7 @@ Currently focused on improving my React, TypeScript, and UI development skills t
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: *(add when ready)*  
-- Email: *(optional)*  
+- LinkedIn: https://linkedin.com/in/vats-isha  
+- Email: ivats.nic@gmail.com
 
 ⭐ Feel free to explore my repositories!
