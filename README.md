@@ -53,7 +53,7 @@ More projects coming as I continue learning 🚀
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isha1906&show_icons=true&hide=stars,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isha1906&show_icons=true&theme=dark)
 
 ---
 
