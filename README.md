@@ -19,15 +19,15 @@ Currently focused on improving my React, TypeScript, and UI development skills t
 
 ### 📂 Projects
 
-- 🔹 **React Internship Assignment**  
+-  **React Internship Assignment**  
   Server-side pagination, persistent row selection, PrimeReact DataTable  
   ➤ Focused on performance, scalability, and clean state management
 
-- 🔹 **Food Application**  
+-  **Food Application**  
   Spring Boot • Angular • MySQL  
   ➤ Built REST APIs and integrated frontend with backend services
 
-- 🔹 **PG Life Clone**  
+-  **PG Life Clone**  
   React-based frontend project  
   ➤ Implemented responsive UI and reusable components
 
